@@ -1,6 +1,6 @@
 ---
 name: Bug report
-about: Report specific bug with clear behavior. For anything else use Discussions.
+about: Report specific bug with clear behavior. For anything else, please use Discussions.
 title: ''
 labels: ''
 assignees: ''
