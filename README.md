@@ -14,4 +14,4 @@ Thank you!
 
 If you encountered something that is clearly a bug, please [**Create an issue**](https://github.com/voxeltycoon/issues/issues/new?assignees=&labels=&template=bug_report.md&title=).
 
-For crashes and other system issues: [Troubleshooting: Start from here](https://github.com/voxeltycoon/issues/discussions/650). 
+For crashes and other system issues, look [Troubleshooting: Start from here](https://github.com/voxeltycoon/issues/discussions/650). 
