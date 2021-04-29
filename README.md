@@ -1,4 +1,4 @@
-## 👋 Welcome to the Voxel Tycoon issues tracker!
+## 👋 Welcome to the Voxel Tycoon Issue Tracker!
 Use [**Discussions**](https://github.com/voxeltycoon/issues/discussions) if you want:
   * Suggest new features, discuss gameplay issues and flaws 💡
   * Suggest and discuss modding features and request C# APIs ⛏️
