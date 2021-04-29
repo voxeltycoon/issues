@@ -8,7 +8,7 @@ Thank you!
   * Suggest a feature, discuss gameplay issues and flaws 💡
   * Suggest and discuss modding features and request C# APIs ⛏️
   * Suggest improvements to user interface and experience 🖱️
-  * Ask for help with crashes, failed saves, render issues (start from [here](https://github.com/voxeltycoon/issues/discussions/650)) 🐞
+  * Ask for help with crashes, failed saves, render issues 🐞
 
 ## [Bugs](https://github.com/voxeltycoon/issues/issues)
 
