@@ -1,13 +1,13 @@
-## 👋 Welcome to the Voxel Tycoon Issue Tracker!
+# 👋 Welcome to the Voxel Tycoon Issue Tracker!
 
-### [Discussions](https://github.com/voxeltycoon/issues/discussions)
+## [Discussions](https://github.com/voxeltycoon/issues/discussions)
 
   * Suggest a feature, discuss gameplay issues and flaws 💡
   * Suggest and discuss modding features and request C# APIs ⛏️
   * Suggest improvements to user interface and experience 🖱️
   * Ask for help with crashes, failed saves, render issues 🐞
 
-### [Bugs](https://github.com/voxeltycoon/issues/issues)
+## [Bugs](https://github.com/voxeltycoon/issues/issues)
 
 If you encountered something that is clearly a bug, please [**Create an issue**](https://github.com/voxeltycoon/issues/issues/new?assignees=&labels=&template=bug_report.md&title=).
 
