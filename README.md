@@ -1,4 +1,4 @@
-# Welcome to the Voxel Tycoon Issue Tracker! 👋 
+# Welcome to the Voxel Tycoon Issue Tracker!
 
 ## [Discussions](https://github.com/voxeltycoon/issues/discussions)
 
