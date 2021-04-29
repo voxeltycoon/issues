@@ -1,5 +1,8 @@
 # Welcome to the Voxel Tycoon Issue Tracker!
 
+**Please check if the same topic or bug weren't posted before creating your own!**
+Thank you!
+
 ## [Discussions](https://github.com/voxeltycoon/issues/discussions)
 
   * Suggest a feature, discuss gameplay issues and flaws 💡
@@ -10,7 +13,3 @@
 ## [Bugs](https://github.com/voxeltycoon/issues/issues)
 
 If you encountered something that is clearly a bug, please [**Create an issue**](https://github.com/voxeltycoon/issues/issues/new?assignees=&labels=&template=bug_report.md&title=).
-
-**Please check if the same topic or bug weren't posted before creating your own!**
-
-Thank you!
