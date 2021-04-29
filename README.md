@@ -1,7 +1,3 @@
-* Report specific bugs: https://github.com/voxeltycoon/issues/issues
-* Anything else: https://github.com/voxeltycoon/issues/discussions
-
-
 ## 👋 Welcome!
 If you want:
   * Suggest new features, discuss gameplay issues and flaws
