@@ -23,4 +23,4 @@ OS name and version.
 How often an issue reproduces: every time, often, rare, once.
 
 **Logs/saves**
-Attach [logs or saves](https://github.com/voxeltycoon/bug-tracker/blob/master/README.md#logs) if applicable.
+Attach [logs or saves](https://github.com/voxeltycoon/issues/discussions/650) if applicable.
